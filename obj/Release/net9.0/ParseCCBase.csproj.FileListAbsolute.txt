@@ -1,0 +1,14 @@
+D:\Coding Stuff\C# Projects\ParseCCBase\bin\Release\net9.0\ParseCCBase.exe
+D:\Coding Stuff\C# Projects\ParseCCBase\bin\Release\net9.0\ParseCCBase.deps.json
+D:\Coding Stuff\C# Projects\ParseCCBase\bin\Release\net9.0\ParseCCBase.runtimeconfig.json
+D:\Coding Stuff\C# Projects\ParseCCBase\bin\Release\net9.0\ParseCCBase.dll
+D:\Coding Stuff\C# Projects\ParseCCBase\bin\Release\net9.0\ParseCCBase.pdb
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.AssemblyInfoInputs.cache
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.AssemblyInfo.cs
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.csproj.CoreCompileInputs.cache
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.dll
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\refint\ParseCCBase.dll
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.pdb
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ParseCCBase.genruntimeconfig.cache
+D:\Coding Stuff\C# Projects\ParseCCBase\obj\Release\net9.0\ref\ParseCCBase.dll
